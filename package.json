@@ -12,3 +12,9 @@ const Discord = require('discord.js');
   "dependencies": {
     "canvas": "^1.6.10",
     "discord.js": "^11.3.2",
+    },
+  "engines": {
+    "node": "8.x"
+  }
+}
+
