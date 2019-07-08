@@ -45,4 +45,4 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 
 
 
-client.login('BOT_TOKEN');
+client.login('mfa.NJzcgsCG8V2OW0fzvG1H1SSyCQPQqBj0zJnqfYAkMSlX-EdjmnsnSceALiHobU5BO1T-JM23J86x48muRVbb');
