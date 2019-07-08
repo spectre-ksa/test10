@@ -2,7 +2,7 @@
   "name": "mohamed",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "bot.js",
+  "main": "we.js",
   "scripts": {
     "start": "node we.js"
   },
