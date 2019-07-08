@@ -7,3 +7,8 @@ const Discord = require('discord.js');
   "scripts": {
     "start": "node bot.js"
   },
+
+  
+  "dependencies": {
+    "canvas": "^1.6.10",
+    "discord.js": "^11.3.2",
