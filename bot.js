@@ -330,6 +330,7 @@ ${serverQueue.songs.map(song => `**-** ${song.title}`).join('\n')}
             return msg.channel.sendEmbed(embedhelp);
     }
     return undefined;
+})
 });
 
 
